@@ -57,15 +57,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "Em uma competição de esportes competitivos, sua equipe está enfrentando um adversário que possui uma vantagem em termos de tempo de jogo e experiência. Para nivelar as condições e melhorar o desempenho da equipe, seu técnico decide implementar uma série de ajustes estratégicos. Que ajustes específicos você faria na sua abordagem para compensar essa desvantagem?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Para compensar a falta de experiência, eu ajustaria nossa abordagem focando em estratégias simples e bem treinadas, como uma defesa sólida e jogadas rápidas para explorar qualquer brecha na defesa adversária",
+                afirmacao: "Focar em estratégias simples e bem treinadas, juntamente com uma preparação mental que inclua simulação de pressão, pode ajudar a equipe a compensar a falta de experiência e manter a confiança contra adversários mais experientes."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Eu adoraria uma abordagem tática que maximizasse nosso pontos fortes, como movimentação rápida e comunicação eficaz, e evitaria entrar em confrontos diretos onde o adversário tem vantagem.",
+                afirmacao: "Adotar uma abordagem tática que explore os pontos fortes da equipe e preparar mentalmente os jogadores com exercícios de visualização e técnicas de controle de estresse são fundamentais para enfrentar adversários mais experientes e superar desafios."
             }
         ]
     },
